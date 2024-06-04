@@ -18,6 +18,18 @@ public class MKPL {
         System.out.println("Simple Calculator");
         System.out.println("-----------------");
         System.out.println("Enter first number: ");
+        System.out.println("Simple Calculator");
+        System.out.println("-----------------");
+        System.out.println("Enter first number: ");
+        System.out.println("Simple Calculator");
+        System.out.println("-----------------");
+        System.out.println("Enter first number: ");
+        System.out.println("Simple Calculator");
+        System.out.println("-----------------");
+        System.out.println("Enter first number: ");
+        System.out.println("Simple Calculator");
+        System.out.println("-----------------");
+        System.out.println("Enter first number: ");
         double num1 = scanner.nextDouble();
 
         System.out.println("Enter second number: ");
